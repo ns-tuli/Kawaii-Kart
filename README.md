@@ -1,2 +1,9 @@
 # Kawaii-Kart
- npx create-react-app kawaii-kart
+## frontend
+ added font in index.html 
+ npm create vite@latest client
+ npm i 
+ npm run dev 
+ 
+ 
+
