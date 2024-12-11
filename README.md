@@ -1,8 +1,10 @@
 # Kawaii-Kart
 ## frontend
- added font in index.html 
+ cd client
  
  npm create vite@latest client
+
+ added font in index.html 
  
  npm i 
  
