@@ -2,9 +2,9 @@
 ## frontend
  cd client
  
- npm create vite@latest client
+ npm create vite@latest client 
 
- added font in index.html 
+ added font in index.html  from google fonts
  
  npm i 
  
