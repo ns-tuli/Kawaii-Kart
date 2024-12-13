@@ -10,5 +10,14 @@
  npm i 
  
  npm run dev 
+
+ ## backend
+ cd api 
+
+ npm install express
+
+ mvc env 
+
+ 
  
  
