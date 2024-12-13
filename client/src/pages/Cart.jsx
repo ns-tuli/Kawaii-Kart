@@ -163,17 +163,17 @@ const Cart = () => {
           <Info>
             <Product>
               <ProductDetail>
-                <Image src="https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1614188818-TD1MTHU_SHOE_ANGLE_GLOBAL_MENS_TREE_DASHERS_THUNDER_b01b1013-cd8d-48e7-bed9-52db26515dc4.png?crop=1xw:1.00xh;center,top&resize=480%3A%2A" />
+                <Image src="https://i.pinimg.com/736x/de/15/ec/de15eca5dfb0c67e7df287725eee36db.jpg" />
                 <Details>
                   <ProductName>
-                    <b>Product:</b> JESSIE THUNDER SHOES
+                    <b>Product:</b> TOWER 28
                   </ProductName>
                   <ProductId>
                     <b>ID:</b> 93813718293
                   </ProductId>
-                  <ProductColor color="black" />
+                  <ProductColor color="red" />
                   <ProductSize>
-                    <b>Size:</b> 37.5
+                    <b>Category:</b> Glossy
                   </ProductSize>
                 </Details>
               </ProductDetail>
@@ -189,17 +189,17 @@ const Cart = () => {
             <Hr />
             <Product>
               <ProductDetail>
-                <Image src="https://i.pinimg.com/originals/2d/af/f8/2daff8e0823e51dd752704a47d5b795c.png" />
+                <Image src="https://i.pinimg.com/474x/59/fc/fb/59fcfb71d57206893d00d7e18eabc071.jpg" />
                 <Details>
                   <ProductName>
-                    <b>Product:</b> HAKURA T-SHIRT
+                    <b>Product:</b> RHODE LIP BALM
                   </ProductName>
                   <ProductId>
                     <b>ID:</b> 93813718293
                   </ProductId>
-                  <ProductColor color="gray" />
+                  <ProductColor color="pink" />
                   <ProductSize>
-                    <b>Size:</b> M
+                    <b>Category:</b> Hydrating
                   </ProductSize>
                 </Details>
               </ProductDetail>

@@ -37,30 +37,30 @@ const ProductList = () => {
     <Container>
       <Navbar />
       <Announcement />
-      <Title>Dresses</Title>
+      <Title>GLOSSES AND BLUSH</Title>
       <FilterContainer>
         <Filter>
           <FilterText>Filter Products:</FilterText>
           <Select>
             <Option disabled selected>
-              Color
+              Brand
             </Option>
-            <Option>White</Option>
-            <Option>Black</Option>
-            <Option>Red</Option>
-            <Option>Blue</Option>
-            <Option>Yellow</Option>
-            <Option>Green</Option>
+            <Option>Rhode</Option>
+            <Option>Rare Beauty</Option>
+            <Option>Vaseline</Option>
+            <Option>Laneige</Option>
+            <Option>Benefit Benetint</Option>
+            <Option>Dior</Option>
           </Select>
           <Select>
             <Option disabled selected>
-              Size
+              Quantity
             </Option>
-            <Option>XS</Option>
-            <Option>S</Option>
-            <Option>M</Option>
-            <Option>L</Option>
-            <Option>XL</Option>
+            <Option>1</Option>
+            <Option>2</Option>
+            <Option>3</Option>
+            <Option>4</Option>
+            <Option>5</Option>
           </Select>
         </Filter>
         <Filter>

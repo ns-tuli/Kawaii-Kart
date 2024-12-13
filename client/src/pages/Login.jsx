@@ -7,7 +7,7 @@ const Container = styled.div`
       rgba(255, 255, 255, 0.5),
       rgba(255, 255, 255, 0.5)
     ),
-    url("https://images.pexels.com/photos/6984650/pexels-photo-6984650.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940")
+    url("https://i.pinimg.com/736x/7b/77/42/7b77422e7870a084b6fb3094abacd622.jpg")
       center;
   background-size: cover;
   display: flex;
@@ -49,11 +49,24 @@ const Button = styled.button`
 `;
 
 const Link = styled.a`
-  margin: 5px 0px;
-  font-size: 12px;
-  text-decoration: underline;
-  cursor: pointer;
+  margin: 5px 0;
+  font-size: 14px;
+  text-decoration: none; 
+  color: #3498db; 
+  font-weight: 500;
+  transition: all 0.3s ease; 
+  
+  &:hover {
+    color: #2980b9; 
+    transform: scale(1.09); 
+  }
+  
+  &:focus {
+    outline: none;
+    box-shadow: 0 0 0 2px #3498db; 
+  }
 `;
+
 
 const Login = () => {
   return (
