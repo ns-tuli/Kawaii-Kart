@@ -1,25 +1,22 @@
 # Kawaii-Kart
 
 <<<<<<< Updated upstream
- added font in index.html 
- 
- npm i 
- 
- npm run dev 
+added font in index.html
 
- ## backend
- cd api 
+npm i
 
- npm install express
+npm run dev
 
- mvc env 
+## backend
 
- 
+cd api
 
- 
- 
- 
+npm install express
+
+mvc env
+
 =======
+
 ## frontend
 
 cd client
@@ -36,13 +33,28 @@ npm run dev
 
 cd api
 
-npm install express
+npm init -y
+
+npm i express mongoose dotenv nodemon
+
+
+
+### in package json
+
+"type":"module"
+
+"scripts":{ "start":"nodemon index.js" }
+
+
+
+### to run the api
+
+npm start
 
 mvc folder
 
 index js , env file
 
-
-
 okk
->>>>>>> Stashed changes
+
+> > > > > > > Stashed changes
