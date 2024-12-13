@@ -37,6 +37,8 @@ npm init -y
 
 npm i express mongoose dotenv nodemon
 
+npm i crypto-js jsonwebtoken
+
 
 
 ### in package json
