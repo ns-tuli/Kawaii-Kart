@@ -76,7 +76,7 @@ const Navbar = () => {
           </SearchContainer>
         </Left>
         <Center>
-          <Logo>KWAII-KART ^ ^</Logo>
+          <Logo>KAWAII-KART ^ ^</Logo>
         </Center>
         <Right>
           <MenuItem>REGISTER</MenuItem>
