@@ -1,6 +1,22 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+=======
+# Kawaii-Kart
+## frontend
+ cd client
+ 
+ npm create vite@latest client
+
+ added font in index.html 
+ 
+ npm i 
+ 
+ npm run dev 
+ 
+ 
+>>>>>>> parent of e292e6c (Update README.md)
 
 Currently, two official plugins are available:
 
